@@ -82,7 +82,7 @@
     "questionNo": 12,
     "question": "Ryan measured the length of a rope using straws.",
     "options":["The rope is about","","straws long."],
-    "answers": ["The rope is about","4","straws long."],
+    "answers": ["The rope is about","5","straws long."],
     "secondImg":"./images/12.jpg"
   },
   {
